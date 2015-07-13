@@ -9,3 +9,11 @@ R/ Because someone could be editing the repository and if you pull it automatica
 3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 R/ Fork is to take other people repository as your repository, clones is to get all the repository into your computer and branches is to parallel in the same work.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+R/ To not repet work
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+R/ Email-Exchange + Compare Documents - it wouldnt be easier.
